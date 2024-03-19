@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Our Website!",
+    "section": "",
+    "text": "We can populate this together — maybe a weekend activity? :)\nFonts and colors can be changed!"
+  },
+  {
+    "objectID": "pics.html",
+    "href": "pics.html",
+    "title": "bugs & other outdoorsy things",
+    "section": "",
+    "text": "We can add pictures here — picture files will be stored in an images folder, and then we call them here using the format ![text](image file name)."
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "blogz",
+    "section": "",
+    "text": "No matching items"
+  }
+]

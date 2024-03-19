@@ -1,0 +1,15 @@
+---
+title: "Our Website!"
+subtitle: "<3"
+
+about:
+  template: solana
+
+sidebar: false
+---
+
+::: column-page
+We can populate this together --- maybe a weekend activity? :)
+
+Fonts and colors can be changed!
+:::

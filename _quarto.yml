@@ -1,0 +1,47 @@
+project:
+
+  type: website
+  output-dir: docs
+
+website:
+
+  title: "Ethan & Maxine's Internet Stash"
+  
+  navbar:
+    search: false
+    left:
+      - href: index.qmd
+        text: Home
+      - href: pics.qmd
+        icon: bug
+        text: Bug Content & Whatnot
+      - href: posts.qmd
+        icon: easel
+        text: Blog
+        
+  sidebar: 
+    - title: Bug Content & Whatnot
+      style: docked
+      contents: 
+        - pics.qmd
+        - travel.qmd
+      
+  page-footer: 
+    background: $olive
+    foreground: $blanched-almond
+    left: "Copyright 2024, Maxine Cruz & Ethan Morgan"
+    right: 
+      - href: https://quarto.org/
+        text: "Made with Quarto"
+      - href: https://github.com/mcx8/bug_n_stuff_website
+        icon: github
+
+format:
+
+  html:
+    theme:
+      - styles.scss
+    mainfont: "Zen Maru Gothic"
+    page-layout: full
+
+editor: visual

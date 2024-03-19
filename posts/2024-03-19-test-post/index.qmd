@@ -1,0 +1,17 @@
+---
+title: "Test Post"
+description: "This is here as a placeholder"
+author:
+  - name: Maxine Cruz
+date: 03-19-2024
+categories:
+  - Other
+image: IMG_3578.jpg
+title-block-banner: true
+title-block-banner-color: "#FFEBCD"
+draft: false
+---
+
+### welcome to what is basically the scratch paper of my posts
+
+In here will be the most random contents, there is nothing yet but there will be.

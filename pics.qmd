@@ -1,0 +1,5 @@
+---
+title: "bugs & other outdoorsy things"
+---
+
+We can add pictures here --- picture files will be stored in an images folder, and then we call them here using the format `![text](image file name)`.
