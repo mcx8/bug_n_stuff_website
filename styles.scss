@@ -2,10 +2,10 @@
 
 // Fonts
 
-// Zen Antique
-// Zen Maru Gothic
+// Alice
+// Hubballi
 
-@import url('https://fonts.googleapis.com/css2?family=Zen+Antique&family=Zen+Maru+Gothic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alice&family=Hubballi&display=swap');
 
 // Colors
 $blanched-almond: #FFEBCD;
@@ -13,6 +13,7 @@ $cornflower-blue: #6495ED;
 $dark-blue: #1E4557;
 $darkest-blue: #0F222B;
 $dark-cyan: #008B8B;
+$dark-golden-rod: #CD950C;
 $dark-olive-green: #39471F;
 $lavender: #5D518A;
 $magenta: #8A1665;
@@ -20,10 +21,10 @@ $olive: #55733D;
 $slate-grey: #C6E2FF;
 
 // Base document colors
-$navbar-bg: $olive; // navbar (bar at top of page)
+$navbar-bg: $dark-blue; // navbar (bar at top of page)
 $navbar-fg: $blanched-almond; // navbar foreground (text, etc.)
 $navbar-hl: $slate-grey; // when you hover over navbar stuff
-$link-color: $cornflower-blue; // when you hover over buttons
+$link-color: $olive; // when you hover over buttons
 
 
 
@@ -32,30 +33,32 @@ $link-color: $cornflower-blue; // when you hover over buttons
 
 // Title, specifically (a.k.a. h1)
 .title {
-  font-family: "Zen Antique";
+  font-family: "Alice";
   font-size: 40px;
 }
 
 // Headers
 h1, h2, h3 {
-  font-family: "Zen Antique";
+  font-family: "Alice";
   font-size: 40px;
-  color: $dark-blue;
+  color: $dark-golden-rod;
 }
 
 // Navbar
 .navbar {
-  font-family: "Zen Maru Gothic";
+  font-family: "Alice";
+  font-size: 18px;
 }
 
 // Body
 body {
   color: $darkest-blue;
+  font-size: 22px;
 }
 
 // Buttons (e.g. home buttons for email, Github, and Linkedin)
 div.quarto-about-trestles .about-entity .about-link {
-  color: $magenta;
+  color: $olive;
 }
 
 // Hovering over buttons

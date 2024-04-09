@@ -5,9 +5,12 @@ project:
 
 website:
 
-  title: "Ethan & Maxine's Internet Stash"
+  title: "E & M's Internet Stash"
+  
+  favicon: images/tab_icon.png
   
   navbar:
+    logo: images/tab_icon.png
     search: false
     left:
       - href: index.qmd
@@ -27,7 +30,7 @@ website:
         - travel.qmd
       
   page-footer: 
-    background: $olive
+    background: $dark-blue
     foreground: $blanched-almond
     left: "Copyright 2024, Maxine Cruz & Ethan Morgan"
     right: 
@@ -41,7 +44,7 @@ format:
   html:
     theme:
       - styles.scss
-    mainfont: "Zen Maru Gothic"
+    mainfont: "Hubballi"
     page-layout: full
 
 editor: visual

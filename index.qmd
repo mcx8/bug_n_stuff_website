@@ -1,15 +1,20 @@
 ---
-title: "Our Website!"
-subtitle: "<3"
+title: "Ethan & Maxine's Random Stuff"
+subtitle: "a collaborative website ♡"
+
+image: images/homepage_pic.jpg
 
 about:
   template: solana
+  image-shape: rounded
+  image-width: 20em
+  links: 
+    - text: Ethan's Site 🚲
+      href: https://emorg.github.io/
+    - text: Maxine's Site 🦋
+      href: https://mcx8.github.io/
 
 sidebar: false
 ---
 
-::: column-page
-We can populate this together --- maybe a weekend activity? :)
-
-Fonts and colors can be changed!
-:::
+hi hello mayonnaise whey yo nays

@@ -1,5 +1,7 @@
 ---
 title: "bugs & other outdoorsy things"
+
+# Note: Pictures are cropped to a 5:4 ratio
 ---
 
 ::: {layout-ncol="3" layout-nrow="3"}
@@ -11,11 +13,11 @@ title: "bugs & other outdoorsy things"
 
 ![](images/IMG_10.jpg)
 
-![](images/IMG_9.jpg)
+![**3/9/2024** **(M)** I spent a lot of time running after unknown white butterflies (two types -- one with a red stripe and another with black spots). Jerks. But thankfully this Empress Leilia let me take it home for our collaborative bug collection.](images/IMG_9.jpg)
 
 ![](images/IMG_8.jpg)
 
-![](images/IMG_7.jpg) 
+![**3/9/2024** **(M)** There's Ethan in the background admiring this rugged butterfly, which I found out from some iNaturalist guy is an "early spring form" of Empress Leilia (*Asterocampa leilia*). That's because of the dark margin and pale interior... or so he says.](images/IMG_7.jpg) 
 
 ![](images/IMG_6.jpg)
 
@@ -23,9 +25,13 @@ title: "bugs & other outdoorsy things"
 
 ![](images/IMG_4.jpg)
 
-![](images/IMG_3.jpg)
+![**11/14/2023** **(M)** Saw this Urbane Digger Bee (*Anthophora urbana*) happily sipping some breakfast while I was on my way to the library for a meeting. It's carrying a good stash of pollen too, maybe they're having a hive party later.](images/IMG_3pt5.jpg)
 
-![](images/IMG_2.jpg)
+![**10/12/2023** **(M)** Ethan does take very cool bee pictures (actual bee pictured here). This little one (which is the Western Honey Bee, *Apis mellifera*) is drinking from a fountain. You can't see it but the fountain is a sculpture of a head.](images/IMG_3.jpg)
 
-![](images/IMG_1.jpg)
+![**10/12/2023** **(M)** We went to Tohono Chul (Tucson, AZ) and it was a wonderful time :) There were a lot of round-ish cacti (as you can see here) and cute little areas scattered around. Questionably warm outside for October though.](images/IMG_2.jpg)
+
+![**9/19/2023** **(M)** A Queen Butterfly (*Danaus gillipus*) snacking on some flower outside the University of Arizona Health Sciences Library. Do I know what kind of flower that is? Nope. Maybe one day though.](images/IMG_1pt5.jpg)
+
+![**9/16/2023** **(M)** I think Ethan takes very nice pictures so I will include this very cool bee he sent me as well. Maybe it's a wasp though, who knows. (It really is actually a Yellowjacket though, *Vespula* or *Dolichovespula* spp.)](images/IMG_1.jpg)
 :::
