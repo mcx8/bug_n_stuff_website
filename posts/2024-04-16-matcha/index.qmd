@@ -1,0 +1,82 @@
+---
+title: "Maxine's Matcha Log"
+description: "Contains notes of places I've gotten a matcha at."
+author:
+  - name: Maxine Cruz
+date: 04-16-2024
+image: IMG_4214.jpg
+title-block-banner: true
+title-block-banner-color: "#FFEBCD"
+draft: false
+
+sidebar: false
+---
+
+### about
+
+Honestly I'm just someone who really enjoys a good matcha latte.... especially if it's unsweetened.
+
+### the places i've acquired a drink
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+
+# NECESSARY LIBRARIES ----- 
+
+library(tidyverse)
+library(leaflet)
+
+
+# BASE DATAFRAME -----
+
+# Latitude
+# Longitude
+# Title in pop-up
+# Status for which icon to use (which we set to "place" in this case)
+# Description in pop-up
+
+travel_list <- 
+  
+  tribble(~long, ~lat, ~name, ~status, ~trip,
+          -77.4169, 39.1459, "Hometown", "home", "Hometown"
+          )
+
+
+# SET CUSTOM ICON BY STATUS -----
+
+# https://rstudio.github.io/leaflet/markers.html
+
+awesome_icons <- awesomeIconList(
+  "place" = makeAwesomeIcon(icon = "leaf",
+                            library = "fa",
+                            marker = "olivedrab"))
+
+
+# MAKE MAP -----
+
+leaflet(data = travel_list, 
+        options = leafletOptions(minZoom = 1, maxZoom = NULL)) |>
+  addProviderTiles("CartoDB.Positron") |>
+  addAwesomeMarkers(~long, ~lat,
+                    label = ~name,
+                    popup = ~trip,
+                    group = travel_list$trip,
+                    icon = ~awesome_icons[status]) |>
+  addMiniMap(
+    tiles = providers$Esri.WorldImagery,
+    toggleDisplay = FALSE
+  )
+```
+
+### Notes
+
+Jasmine Jo & Rowan Tree (Coffee & Flowers)
+
+Exo Roast Company
+
+Cartel Roasting Company
+
+Time Market
+
+Happy Cup Coffee Company
+
+Yet-to-translate bag of matcha my parents got for me in Japan
