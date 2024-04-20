@@ -1,0 +1,17 @@
+---
+title: "Ethan's Buns"
+description: "Hot n' Toasty ( ㅅ ). Title and description brought to you by Maxine."
+author:
+  - name: Ethan Morgan
+date: 04-19-2024
+image: IMG_3729.jpg
+title-block-banner: true
+title-block-banner-color: "#FFEBCD"
+draft: false
+
+sidebar: false
+---
+
+### title
+
+words

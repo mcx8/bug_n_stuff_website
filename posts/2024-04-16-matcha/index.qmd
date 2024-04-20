@@ -1,20 +1,22 @@
 ---
 title: "Maxine's Matcha Log"
-description: "Contains notes of places I've gotten a matcha at."
+description: "Drinking chlorophyll until I too can photosynthesize."
 author:
   - name: Maxine Cruz
 date: 04-16-2024
-image: IMG_4214.jpg
+image: IMG_3101.jpg
 title-block-banner: true
 title-block-banner-color: "#FFEBCD"
 draft: false
 
 sidebar: false
+
+# Note to self: Image ratio is 4:3
 ---
 
 ### about
 
-Honestly I'm just someone who really enjoys a good matcha latte.... especially if it's unsweetened.
+Honestly I just really enjoy a good matcha latte.... especially if it's unsweetened.
 
 ### the places i've acquired a drink
 
@@ -67,16 +69,32 @@ leaflet(data = travel_list,
   )
 ```
 
-### Notes
+### notes
 
-Jasmine Jo & Rowan Tree (Coffee & Flowers)
-
-Exo Roast Company
-
-Cartel Roasting Company
+Screwbean Brewing
 
 Time Market
 
-Happy Cup Coffee Company
+Prep & Pastry
 
 Yet-to-translate bag of matcha my parents got for me in Japan
+
+::: {layout-ncol="3" layout-nrow="3"}
+
+![**Exo Roast Company (Tucson, AZ)**](IMG_3100.jpg)
+
+![**Jasmine Jo & Rowan Tree (Coffee & Flowers) (Tempe, AZ)**](IMG_2476.jpg)
+
+![**Cartel Roasting Company (Tucson, AZ)**](IMG_0108.jpg)
+
+![**Ranger Chocolate Co. (Portland, OR)**](IMG_9027.jpg)
+
+![**Happy Cup Coffee Company (Portland, OR)**](IMG_8981.jpg)
+
+![**Ren Coffeehouse (Tucson, AZ)**](IMG_4495.jpg)
+
+:::
+
+### random notes for future me
+
+Mirakutei Sushi & Ramen
