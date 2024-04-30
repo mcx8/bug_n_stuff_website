@@ -80,6 +80,7 @@ Prep & Pastry
 Yet-to-translate bag of matcha my parents got for me in Japan
 
 ::: {layout-ncol="3" layout-nrow="3"}
+![**Cafe Passe (Tucson, AZ)**](IMG_7185.jpg)
 
 ![**Exo Roast Company (Tucson, AZ)**](IMG_3100.jpg)
 
@@ -92,7 +93,6 @@ Yet-to-translate bag of matcha my parents got for me in Japan
 ![**Happy Cup Coffee Company (Portland, OR)**](IMG_8981.jpg)
 
 ![**Ren Coffeehouse (Tucson, AZ)**](IMG_4495.jpg)
-
 :::
 
 ### random notes for future me
