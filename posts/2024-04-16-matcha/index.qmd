@@ -80,6 +80,7 @@ leaflet(data = travel_list,
 ![**Chez Peachy (Tucson, AZ)**](IMG_6419.jpeg)
 
 ![**Time Market (Tucson, AZ)**](IMG_6189.jpeg)
+
 ![**Noodleholics (Tucson, AZ)**](IMG_6182.jpeg)
 
 ![**Cafe Passe (Tucson, AZ)**](IMG_7185.jpg)
