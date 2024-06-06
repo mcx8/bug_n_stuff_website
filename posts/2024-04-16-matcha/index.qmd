@@ -16,7 +16,11 @@ sidebar: false
 
 ### about
 
-Honestly I just really enjoy a good matcha latte.... especially if it's unsweetened.
+I've really enjoyed drinking green teas since I was of some young age, and I remember the first non-matcha tea that I enjoyed was (and what I now know is called) genmaicha. I'm not really sure where my matcha interest started, but I suspect it was either with mochis from Japan or those green tea mochi ice creams from the freezer section of a well-stocked oriental store.
+
+Today, I'd say my favorite tea latte to enjoy is a matcha latte. Particularly the unsweetened ones... which seem to be the "new" trend as of late with these baristas asking if I'm fine with them serving their matchas unsweetened. And I am, of course, though partially because I tend to prefer unsweetened or very lightly sweetened treats anyway.
+
+Nonetheless, here I will keep record of where I've gotten a matcha / matcha latte. Why? Just because it seems like it would be fun to look back on in the future.
 
 ### the places i've acquired a drink
 
@@ -69,17 +73,15 @@ leaflet(data = travel_list,
   )
 ```
 
-### notes
-
-Screwbean Brewing
-
-Time Market
-
-Prep & Pastry
-
-Yet-to-translate bag of matcha my parents got for me in Japan
+### matcha moments
 
 ::: {layout-ncol="3" layout-nrow="3"}
+
+![**Chez Peachy (Tucson, AZ)**](IMG_6419.jpeg)
+
+![**Time Market (Tucson, AZ)**](IMG_6189.jpeg)
+![**Noodleholics (Tucson, AZ)**](IMG_6182.jpeg)
+
 ![**Cafe Passe (Tucson, AZ)**](IMG_7185.jpg)
 
 ![**Exo Roast Company (Tucson, AZ)**](IMG_3100.jpg)
@@ -97,4 +99,11 @@ Yet-to-translate bag of matcha my parents got for me in Japan
 
 ### random notes for future me
 
+Screwbean Brewing
+
+Prep & Pastry
+
+Yet-to-translate bag of matcha my parents got for me in Japan
+
 Mirakutei Sushi & Ramen
+
