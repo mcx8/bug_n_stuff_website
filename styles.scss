@@ -38,9 +38,16 @@ $link-color: $olive; // when you hover over buttons
 }
 
 // Headers
-h1, h2, h3 {
+h1 {
   font-family: "Alice";
   font-size: 40px;
+  color: $darkest-blue;
+}
+
+
+h2, h3 {
+  font-family: "Alice";
+  font-size: 35px;
   color: $dark-golden-rod;
 }
 

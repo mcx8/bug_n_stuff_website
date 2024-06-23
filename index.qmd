@@ -2,7 +2,7 @@
 title: "Ethan & Maxine's Random Stuff"
 subtitle: "a collaborative website ♡"
 
-image: images/homepage_pic.jpg
+image: images/homepage/homepage_pic.jpg
 
 about:
   template: solana

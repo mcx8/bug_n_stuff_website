@@ -10,16 +10,20 @@ title-block-banner-color: "#FFEBCD"
 draft: false
 
 sidebar: false
+
+# Note: Image ratio is 4:3
 ---
 
 ### about
+
 I started getting in to baking bread around the same time I started cooking, probably because I really *really* like eating bread. I mostly do sourdough stuff.
 
-My current starter, named Lev Haroldovich, [^†] was born on July 18, 2021, and has served me well since then. I feed him on a steady diet of Bob's Red Mill Dark Rye Flour (RIP Bob). Lev lives in the fridge for four days a week in order to keep food costs down, but he has a very happy life. Below you can see some pictures of my baking attempts!
+My current starter, named Lev Haroldovich, [^1] was born on July 18, 2021, and has served me well since then. I feed him on a steady diet of Bob's Red Mill Dark Rye Flour (RIP Bob). Lev lives in the fridge for four days a week in order to keep food costs down, but he has a very happy life. Below you can see some pictures of my baking attempts!
 
-[^†]: I was reading a lot of Russian literature at the time, and it's an offshoot of my first starter, Harold.
+[^1]: I was reading a lot of Russian literature at the time, and it's an offshoot of my first starter, Harold.
+
+### 🥖s
 
 ::: {layout-ncol="3" layout-nrow="3"}
 ![**Bread №53** The first loaf baked in my new place! We had to haggle with the landlord a bit to get a full sized oven, and I'm very glad we did. Probably the best bread I've made since moving to Utah.](IMG_5314.JPEG)
-
 :::

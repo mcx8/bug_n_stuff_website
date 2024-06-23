@@ -7,10 +7,10 @@ website:
 
   title: "E & M's Internet Stash"
   
-  favicon: images/tab_icon.png
+  favicon: images/homepage/tab_icon.png
   
   navbar:
-    logo: images/tab_icon.png
+    logo: images/homepage/tab_icon.png
     search: false
     left:
       - href: index.qmd
