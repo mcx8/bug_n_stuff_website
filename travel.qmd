@@ -41,7 +41,7 @@ travel_list <- tribble(~long, ~lat, ~name, ~status, ~trip,
                        
                        -110.9507933, 32.3533401, "Pima Canyon", "hike", "Greenest hike in the city of Tucson. Ethan gets a taste of Maxine's bug-catching craziness.",
                        
-                       -110.9073328, 32.4259659, "Catalina State Park", "hike", "Ethan fangirls over the tadpole sightings. Maxine fangirls Ethan fangirling."
+                       -110.9073328, 32.4259659, "Catalina State Park", "hike", "Ethan fangirls over the tadpole sightings. Maxine fangirls Ethan fangirling.",
 
                        -111.9733, 40.786330188, "Salt Lake City International Airport", "town", "Location of three aiport dates when Maxine had layovers here!"
            
