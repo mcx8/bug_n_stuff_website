@@ -44,6 +44,10 @@ travel_list <- tribble(~long, ~lat, ~name, ~status, ~trip,
                        -110.9073328, 32.4259659, "Catalina State Park", "hike", "Ethan fangirls over the tadpole sightings. Maxine fangirls Ethan fangirling.",
 
                        -111.9733, 40.786330188, "Salt Lake City International Airport", "town", "Location of three aiport dates when Maxine had layovers here!"
+
+                       -123.030853, 44.939857, "Oregon State University", "town", "Maxine is in Oregon now! This is where she goes to school, and I become her in-class emotional support animal while visiting."
+
+                       -124.061389, 44.746944, "Otter Rock", "town", "We did a lil weekend trip here during my first visit to Oregon. Ethan's first true ocean experience.",
            
            )
 
